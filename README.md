@@ -5,4 +5,4 @@
 ### - Guardar la información de usuarios o trabajadores de la biblioteca (contraseña y nombre).
 ### - Guardar nombre de los libros y su disponibilidad, es decir si están siendo prestados o no.
 ### - Guardar el nombre, fecha y día en que una persona haya pedido prestado un libro.
-### Además, luego de 7 días de prestado un libro, se cobrará una multa por cada día pasado.
+### Además, luego de 7 días de prestado un libro, se cobrará un valor por multa que cada día pasado aumentará su valor.
