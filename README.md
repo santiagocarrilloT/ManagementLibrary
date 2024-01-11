@@ -8,4 +8,6 @@
 ### Además, luego de 7 días de prestado un libro, se cobrará un valor por multa que cada día pasado aumentará su valor.
 
 ## Recomendaciones del programa:
-### - Si no se puede iniciar sesión, ir a la clase Registro y ejecutar el programa desde allí para crear una nueva cuenta
+### - Si no se puede iniciar sesión debido al usuario o contraseña. Ir a **PaqueteBibliotecario y ejecutar el programa desde la clase _Registro_** y crear una nueva cuenta para lograr ejecutar el programa. 
+### - El programa posee un conjunto de libros y géneros predeterminados (tres géneros y cinco libros por cada uno de ellos).
+### - Para volver a los géneros y libros iniciales ir a **PaqueteLibroGenero y ejecutar el programa desde 
